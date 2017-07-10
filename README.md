@@ -1,4 +1,4 @@
-#FurryGame
+FurryGame
 A simple game in JavaScript.
 
 Usage:
